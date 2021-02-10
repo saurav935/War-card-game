@@ -1,5 +1,8 @@
 # War-card-game
 
+![How-to-Play-War-Card-Game-2](https://user-images.githubusercontent.com/75733364/107474193-ec158880-6b97-11eb-83cc-522721b39acc.jpg)
+
+
 # Rules
 
 - Uses standard 52 card deck. At the beginning of each match the deck is shuffled and divded evenly (26 cards each) amongst two players.
